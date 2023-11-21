@@ -1,13 +1,13 @@
 # janela
 
--cortina
+- cortina
 
--escada rolante
+- escada rolante
 
--piscina 
+- piscina 
 
--telhado
+- telhado
 
--trampolim
+- trampolim
 
--plantas
+- plantas
